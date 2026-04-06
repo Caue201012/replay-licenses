@@ -42,5 +42,12 @@
     "gerado_em": "2026-04-05 19:55",
     "hwid": "4f8e903d48444eb737d06d7a8fd4c48130eedde98cd7ae82a5f2f3410b8435b9",
     "criado_por": "suzuyixpz"
+  },
+  "Teste": {
+    "senha": "Teste",
+    "expira": "2026-04-06 22:09",
+    "gerado_em": "2026-04-05 22:09",
+    "hwid": "",
+    "criado_por": "suzuyixpz"
   }
 }
