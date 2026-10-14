@@ -36,5 +36,9 @@
   "KEY-SB4UXFCH-XG7L6": {
     "expira": "2026-09-15",
     "hwid": ""
+  },
+  "KEY-4UFMOU7R-3E4VE": {
+    "expira": "9999-12-31 23:59",
+    "hwid": ""
   }
 }
